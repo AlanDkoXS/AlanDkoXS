@@ -6,7 +6,6 @@
 <a href="https://www.instagram.com/anotherguyontheroad/" /><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </div>
 
----
 
 ## Hi there 👋
 
@@ -20,8 +19,12 @@ With over **three years of experience** in **digital illustration, branding, and
 ### 💻 Full Stack Web Development
 I'm currently expanding my skill set in **HTML, CSS, and JavaScript** through a Full Stack Web Development course. My projects reflect a **mobile-first design approach** with a focus on responsive, accessible, and modern web applications. Recent projects include [Cookies Fortune](https://github.com/AlanDkoXS/personalWebpage/tree/main), a React application developed with Vite and deployed on **Netlify**.
 
+---
+
 ### 📈 Professional Skills
 As a designer and developer, I bring a **self-taught, detail-oriented** approach, complemented by experience in **Agile and Scrum** methodologies. I’m also developing skills in **project management** and **risk management** for a project called "Plant Pals" at Office Green, addressing budget and training schedule risks.
+
+---
 
 ## 💼 Languages and Tools
 
@@ -45,11 +48,7 @@ As a designer and developer, I bring a **self-taught, detail-oriented** approach
 <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" />
   </div>
 
-### 🌐 Connect with Me
-- **GitHub**: [github.com/AlanDkoXS](https://github.com/AlanDkoXS)
-- **Instagram**: [@anotherguyontheroad](https://www.instagram.com/anotherguyontheroad/)
-- **Twitter (X)**: [@AlanDKO](https://x.com/AlanDKO)
-- **LinkedIn**: [linkedin.com/in/alanxs](https://www.linkedin.com/in/alanxs/)
+  ---
 
 ### 📫 Contact
 - **Email**: [alan.quintanapacheco@gmail.com](mailto:alan.quintanapacheco@gmail.com)
