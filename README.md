@@ -1,6 +1,8 @@
-## Hi there 👋
-# Alan Quintana
-
+<img href="https://alanquintana.netlify.app/" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" />
+<img href="https://www.linkedin.com/in/alanxs/" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img href="https://x.com/AlanDKO" src="hhttps://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
+<img href="https://www.instagram.com/anotherguyontheroad/" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+---
 ## Hi there 👋
 
 ### Freelance Graphic Designer | Aspiring Full Stack Developer
