@@ -1,5 +1,5 @@
 
-<img src="https://raw.githubusercontent.com/AlanDkoXS/AlanDkoXS/refs/heads/main/assets/img/bannerGithub.svg" align="center" alt="ALAN | QUINTANA">
+<img src="https://raw.githubusercontent.com/AlanDkoXS/AlanDkoXS/refs/heads/main/assets/img/bgGit.webp" align="center" alt="ALAN | QUINTANA">
 
 <div>
 <a href="https://alanquintana.netlify.app/" /><img src="https://img.shields.io/badge/website-001219?style=for-the-badge&logo=About.me&logoColor=f3ce3a" />
