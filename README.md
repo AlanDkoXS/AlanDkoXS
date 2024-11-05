@@ -17,7 +17,6 @@
 - 📫 How to reach me: <a href="https://wa.me/526141105668">you can text me<a/>
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I’m a self-taught graphic designer who started as a hobbyist and turned it into a full-fledged career.
--->
 
 ### Freelance Graphic Designer | Aspiring Full Stack Developer
 
