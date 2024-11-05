@@ -7,7 +7,17 @@
 </div>
 
 
-## Hi there 👋
+## Hi there, I'm Alan 👋
+
+- 🔭 I’m currently working on refining my professional webpage and adding interactive features.
+- 🌱 I’m currently learning Full Stack Web Development and advancing my skills in React and JavaScript.
+- 👯 I’m looking to collaborate on creative and development projects.
+- 🤔 I’m looking for help with mastering advanced front-end techniques.
+- 💬 Ask me about graphic design, digital illustration, and creating responsive web layouts.
+- 📫 How to reach me: <a href="https://wa.me/526141105668">you can text me<a/>
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I’m a self-taught graphic designer who started as a hobbyist and turned it into a full-fledged career.
+-->
 
 ### Freelance Graphic Designer | Aspiring Full Stack Developer
 
