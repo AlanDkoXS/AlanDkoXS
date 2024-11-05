@@ -1,9 +1,10 @@
 <div>
-<a href="https://alanquintana.netlify.app/" /><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" />
+<a href="https://alanquintana.netlify.app/" /><img src="https://img.shields.io/badge/website-001219?style=for-the-badge&logo=About.me&logoColor=f3ce3a" />
 <a href="https://www.linkedin.com/in/alanxs/" /><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 <a href="https://x.com/AlanDKO" /><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
 <a href="https://dribbble.com/Alan3XS" /><img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" />
 <a href="https://www.instagram.com/anotherguyontheroad/" /><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+<a href="https://codepen.io/AlanXS" /><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" />
 </div>
 
 
