@@ -13,7 +13,7 @@
 </div>
 
 
-# Hi there, I'm Alan https://media.giphy.com/media/3o7aCXNCE3ZJ1zHaP6/giphy.gif?cid=790b76111lw1s040uigf3fxrf4mypij5dtor9l4wy05je7br&ep=v1_gifs_search&rid=giphy.gif&ct=g👋
+# Hi there, I'm Alan 👋
 
 - 🔭 I’m currently working on refining my professional webpage and adding interactive features.
 - 🌱 I’m currently learning Full Stack Web Development and advancing my skills in React and JavaScript.
