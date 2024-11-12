@@ -78,4 +78,4 @@ As a designer and developer, I bring a **self-taught, detail-oriented** approach
 ---
 
 ## 📫 Contact
-- **Email**: [alan.quintanapacheco@gmail.com](mailto:alan.quintanapacheco@gmail.com)
+- **Email**: [hello@alan.quintanapacheco.pro](hello@alan.quintanapacheco.pro)
