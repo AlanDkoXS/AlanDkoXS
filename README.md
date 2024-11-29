@@ -32,7 +32,7 @@ Hi! I'm **Alan Quintana**, a creative professional from **Chihuahua, Mexico**, w
 With over **three years of experience** in **digital illustration, branding, and photography**, I specialize in the **Adobe Creative Suite** (Photoshop, Illustrator, InDesign) and Figma.
 
 ## 💻 Full Stack Web Development
-I'm currently expanding my skill set in **HTML, CSS, and JavaScript** through a Full Stack Web Development course. My projects reflect a **mobile-first design approach** with a focus on responsive, accessible, and modern web applications. Recent projects include [Cookies Fortune](https://github.com/AlanDkoXS/personalWebpage/tree/main), a React application developed with Vite and deployed on **Netlify**.
+I'm currently expanding my skill set in **HTML, CSS, and JavaScript** through a Full Stack Web Development course. My projects reflect a **mobile-first design approach** with a focus on responsive, accessible, and modern web applications. Recent projects include [Marvel Wiki Characters](https://github.com/AlanDkoXS/personalWebpage/tree/main), a React application developed with Vite and deployed on **Netlify**.
 
 ---
 
