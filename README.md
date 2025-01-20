@@ -16,7 +16,7 @@
 # Hi there, I'm Alan 👋
 
 - 🔭 I’m currently working on refining my professional webpage and adding interactive features.
-- 🌱 I’m currently learning Full Stack Web Development and advancing my skills in React and JavaScript.
+- 🌱I'm currently learning Full Stack Web Development, with a focus on backend technologies like NodeJS and Express.
 - 👯 I’m looking to collaborate on creative and development projects.
 - 🤔 I’m looking for help with mastering advanced front-end techniques.
 - 💬 Ask me about graphic design, digital illustration, and creating responsive web layouts.
