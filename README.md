@@ -32,7 +32,7 @@ Hi! I'm **Alan Quintana**, a **full stack developer** and **graphic designer** f
 
 ---
 
-## 🖥️ Full Stack Web Development  
+## 🖥️ Full Stack Development  
 
 I specialize in **MERN (MongoDB, Express, React, NodeJS)** and also work with **PostgreSQL** for relational databases. I have strong **Frontend development** skills, building modern, responsive, and user-friendly interfaces using:  
 
@@ -98,7 +98,7 @@ I bring a **design-first mindset** to development, ensuring every product is bot
 
 ---
 
-## 🚀 Designs by day, develops by night  
+## 🚀 Design by day, code by night  
 
 ![Snake animation](https://raw.githubusercontent.com/AlanDkoXS/AlanDkoXS/output/github-contribution-grid-snake-dark.svg)  
 
