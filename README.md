@@ -13,7 +13,7 @@
 </div>
 
 
-# Hi there, I'm Alan 👋  
+# Hi there 👋  
 
 - 🔭 I’m currently developing a **time-tracking application** using the **MERN** stack.  
 - 🌱 I recently completed my **Full Stack Web Development** course and continue refining my skills in **NodeJS, Express, PostgreSQL, and MongoDB**.  
@@ -26,7 +26,7 @@
 
 ---
 
-## 💻 Full Stack Designer  
+## A Full Stack **Designer**  
 
 Hi! I'm **Alan Quintana**, a **full stack developer** and **graphic designer** from **Chihuahua, Mexico**. I have a passion for creating **functional, scalable, and visually engaging** digital experiences. My background in **design** and **web development** allows me to craft well-structured, accessible, and aesthetic applications.  
 
