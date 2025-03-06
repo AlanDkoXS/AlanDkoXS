@@ -13,69 +13,104 @@
 </div>
 
 
-# Hi there, I'm Alan 👋
+# Hi there, I'm Alan 👋  
 
-- 🔭 I’m currently working on refining my professional webpage and adding interactive features.
-- 🌱I'm currently learning Full Stack Web Development, with a focus on backend technologies like NodeJS and Express.
-- 👯 I’m looking to collaborate on creative and development projects.
-- 🤔 I’m looking for help with mastering advanced front-end techniques.
-- 💬 Ask me about graphic design, digital illustration, and creating responsive web layouts.
-- 📫 How to reach me: <a href="https://wa.me/526141105668">you can text me<a/>
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I’m a self-taught graphic designer who started as a hobbyist and turned it into a full-fledged career.
-
-## Freelance Graphic Designer | Aspiring Full Stack Developer
-
-Hi! I'm **Alan Quintana**, a creative professional from **Chihuahua, Mexico**, with a background in **graphic design** and a current focus on **full stack web development**. I am passionate about combining aesthetics with functionality to create unique, user-friendly digital experiences.
-
-## 🎨 Graphic Design Expertise
-With over **three years of experience** in **digital illustration, branding, and photography**, I specialize in the **Adobe Creative Suite** (Photoshop, Illustrator, InDesign) and Figma.
-
-## 💻 Full Stack Web Development
-I'm currently expanding my skill set in **HTML, CSS, and JavaScript** through a Full Stack Web Development course. My projects reflect a **mobile-first design approach** with a focus on responsive, accessible, and modern web applications. Recent projects include [Marvel Wiki Characters](https://github.com/AlanDkoXS/), a React application developed with Vite and deployed on **Netlify**.
+- 🔭 I’m currently developing a **time-tracking application** using the **MERN** stack.  
+- 🌱 I recently completed my **Full Stack Web Development** course and continue refining my skills in **NodeJS, Express, PostgreSQL, and MongoDB**.  
+- 👯 I’m looking to collaborate on **innovative web development projects**.  
+- 🤔 I’m diving deeper into **advanced front-end techniques** and optimizing UI/UX.  
+- 💬 Ask me about **full stack development, graphic design, and digital illustration**.  
+- 📫 How to reach me: <a href="https://wa.me/526141105668">Send me a message on WhatsApp</a>  
+- 😄 Pronouns: He/Him  
+- ⚡ Fun fact: I started as a **self-taught graphic designer**, and now I blend **design and development** to build **modern, user-centric applications**.  
 
 ---
 
-## 📈 Professional Skills
-As a designer and developer, I bring a **self-taught, detail-oriented** approach, complemented by experience in **Agile and Scrum** methodologies. I’m also developing skills in **project management** and **risk management** for a project called "Plant Pals" at Office Green, addressing budget and training schedule risks.
+## 💻 Full Stack Web Developer | Graphic Designer  
+
+Hi! I'm **Alan Quintana**, a **full stack developer** and **graphic designer** from **Chihuahua, Mexico**. I have a passion for creating **functional, scalable, and visually engaging** digital experiences. My background in **design** and **web development** allows me to craft well-structured, accessible, and aesthetic applications.  
 
 ---
 
-## 💼 Languages and Tools
+## 🖥️ Full Stack Web Development  
 
-### 🗒️ Dev
-<br />
-<div>
-<img src="https://img.shields.io/badge/-javascript-F7DF1E?&style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/-css3-1572B6?&style=for-the-badge&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/-ReactJS-grey?&style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E" />
-<img src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white" />
-<img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
-<img src="https://img.shields.io/badge/-VSCode-007ACC?&style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-<img src="https://img.shields.io/badge/-Git-F05032?&style=for-the-badge&logo=git&logoColor=white" /> 
-<img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
+I specialize in **MERN (MongoDB, Express, React, NodeJS)** and also work with **PostgreSQL** for relational databases. My latest project is a **time-tracking application**, focusing on:  
 
-  </div>
-  
-### 🖌️ Design
+- **Authentication & Authorization** (JWT, bcrypt)  
+- **State management** with Redux  
+- **RESTful API development** with Express  
+- **Database management** with PostgreSQL & MongoDB  
+- **Deployment & CI/CD** with Netlify and Vercel  
+
+Check out my work: [GitHub Repositories](https://github.com/AlanDkoXS/)  
+
+---
+
+## 🎨 Graphic Design Expertise  
+
+With **3+ years of experience** in **branding, digital illustration, and UI/UX**, I’m proficient in:  
+
+- **Adobe Creative Suite** (Photoshop, Illustrator, InDesign)  
+- **Figma** for UI/UX prototyping  
+- **Motion graphics** with After Effects  
+
+I bring a **design-first mindset** to development, ensuring every product is both **functional and visually appealing**.  
+
+---
+
+## 📈 Professional Skills  
+
+- **Full Stack Development**: MERN, PostgreSQL, RESTful APIs  
+- **Frontend Frameworks**: React, Vite, Redux, Tailwind CSS  
+- **Backend & Databases**: Node.js, Express, PostgreSQL, MongoDB  
+- **Project Management**: Agile, Scrum, Risk Management  
+- **UI/UX Design**: Wireframing, Prototyping, Responsive Design  
+- **DevOps & Deployment**: Netlify, Vercel, GitHub Actions  
+
+---
+
+## 💼 Languages and Tools  
+
+### 🗒️ Development  
+
 <div>
-  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
-<img src="https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white" />
-<img src="https://img.shields.io/badge/Adobe%20after%20affects-CF96FD?style=for-the-badge&logo=Adobe%20after%20effects&logoColor=white" />
-<img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" />
-<img src="https://img.shields.io/badge/Adobe%20Lightroom-31A8FF?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white" />
-<img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" />
+<img src="https://img.shields.io/badge/-JavaScript-F7DF1E?&style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/-React-61DAFB?&style=for-the-badge&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/-Node.js-339933?&style=for-the-badge&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/-Express-000000?&style=for-the-badge&logo=express&logoColor=white" />
+<img src="https://img.shields.io/badge/-MongoDB-47A248?&style=for-the-badge&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/-PostgreSQL-336791?&style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/-Vite-B73BFE?&style=for-the-badge&logo=vite&logoColor=FFD62E" />
+<img src="https://img.shields.io/badge/-TailwindCSS-06B6D4?&style=for-the-badge&logo=tailwindcss&logoColor=white" />
+<img src="https://img.shields.io/badge/-Git-F05032?&style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/-Netlify-00C7B7?&style=for-the-badge&logo=netlify&logoColor=white" />
+<img src="https://img.shields.io/badge/-Vercel-000000?&style=for-the-badge&logo=vercel&logoColor=white" />
 </div>
+
+### 🖌️ Design  
+
+<div>
+<img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
+<img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" />
+<img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" />
+<img src="https://img.shields.io/badge/Adobe%20XD-FF61F6?style=for-the-badge&logo=adobe%20xd&logoColor=white" />
+<img src="https://img.shields.io/badge/After%20Effects-CF96FD?style=for-the-badge&logo=Adobe%20after%20effects&logoColor=white" />
+</div>
+
 ---
 
-## 👨‍💻 Designs by day, develops by night
+## 🚀 Designs by day, develops by night  
 
-![Snake animation](https://raw.githubusercontent.com/AlanDkoXS/AlanDkoXS/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://raw.githubusercontent.com/AlanDkoXS/AlanDkoXS/output/github-contribution-grid-snake-dark.svg)  
 
 ---
 
-## 📫 Contact
-- **Email**: [hello@alan.quintanapacheco.pro](hello@alan.quintanapacheco.pro)
+## 📫 Contact  
+
+- **Email**: [hello@alan.quintanapacheco.pro](mailto:hello@alan.quintanapacheco.pro)  
+- **WhatsApp**: [Send me a message](https://wa.me/526141105668)  
+
+---
+
+### 🔥 Let's build something amazing together! 🚀  
+
