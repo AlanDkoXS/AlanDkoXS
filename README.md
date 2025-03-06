@@ -26,7 +26,7 @@
 
 ---
 
-## 💻 Full Stack Web Developer | Graphic Designer  
+## 💻 Full Stack Designer  
 
 Hi! I'm **Alan Quintana**, a **full stack developer** and **graphic designer** from **Chihuahua, Mexico**. I have a passion for creating **functional, scalable, and visually engaging** digital experiences. My background in **design** and **web development** allows me to craft well-structured, accessible, and aesthetic applications.  
 
@@ -34,13 +34,12 @@ Hi! I'm **Alan Quintana**, a **full stack developer** and **graphic designer** f
 
 ## 🖥️ Full Stack Web Development  
 
-I specialize in **MERN (MongoDB, Express, React, NodeJS)** and also work with **PostgreSQL** for relational databases. My latest project is a **time-tracking application**, focusing on:  
+I specialize in **MERN (MongoDB, Express, React, NodeJS)** and also work with **PostgreSQL** for relational databases. I have strong **Frontend development** skills, building modern, responsive, and user-friendly interfaces using:  
 
-- **Authentication & Authorization** (JWT, bcrypt)  
-- **State management** with Redux  
-- **RESTful API development** with Express  
-- **Database management** with PostgreSQL & MongoDB  
-- **Deployment & CI/CD** with Netlify and Vercel  
+- **HTML, CSS, and JavaScript** for structured, accessible, and dynamic web applications.  
+- **React** for building reusable UI components and interactive web experiences.  
+- **State management** with Redux to handle complex application states.  
+- **Responsive design** with Tailwind CSS and styled-components for seamless user experience across devices.
 
 Check out my work: [GitHub Repositories](https://github.com/AlanDkoXS/)  
 
