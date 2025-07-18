@@ -73,35 +73,75 @@ I bring a **design-first mindset** to development, ensuring every product is bot
 ### 🗒️ Development  
 
 <div>
-  <img src="https://img.shields.io/badge/-HTML-E34F26?&style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/-CSS-1572B6?&style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?&style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/-TypeScript-3178C6?&style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/-React-61DAFB?&style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/-Astro-1E293B?&style=for-the-badge&logo=astro&logoColor=FF5D01" />
-  <img src="https://img.shields.io/badge/-Node.js-339933?&style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Express-000000?&style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/-MongoDB-47A248?&style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/-PostgreSQL-336791?&style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Vite-B73BFE?&style=for-the-badge&logo=vite&logoColor=FFD62E" />
-  <img src="https://img.shields.io/badge/-TailwindCSS-06B6D4?&style=for-the-badge&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Git-F05032?&style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Netlify-00C7B7?&style=for-the-badge&logo=netlify&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Vercel-000000?&style=for-the-badge&logo=vercel&logoColor=white" />
-  <br>
-  <span style="vertical-align: middle;">❤️</span> <img src="https://img.shields.io/badge/-Markdown-000000?&style=for-the-badge&logo=markdown&logoColor=white" style="vertical-align: middle;" />
+ <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+   <img src="https://img.shields.io/badge/-HTML-E34F26?&style=for-the-badge&logo=html5&logoColor=white" />
+ </a>
+ <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+   <img src="https://img.shields.io/badge/-CSS-1572B6?&style=for-the-badge&logo=css3&logoColor=white" />
+ </a>
+ <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?&style=for-the-badge&logo=javascript&logoColor=black" />
+ </a>
+ <a href="https://www.typescriptlang.org/" target="_blank">
+   <img src="https://img.shields.io/badge/-TypeScript-3178C6?&style=for-the-badge&logo=typescript&logoColor=white" />
+ </a>
+ <a href="https://reactjs.org/" target="_blank">
+   <img src="https://img.shields.io/badge/-React-61DAFB?&style=for-the-badge&logo=react&logoColor=black" />
+ </a>
+ <a href="https://astro.build/" target="_blank">
+   <img src="https://img.shields.io/badge/-Astro-1E293B?&style=for-the-badge&logo=astro&logoColor=FF5D01" />
+ </a>
+ <a href="https://nodejs.org/" target="_blank">
+   <img src="https://img.shields.io/badge/-Node.js-339933?&style=for-the-badge&logo=node.js&logoColor=white" />
+ </a>
+ <a href="https://expressjs.com/" target="_blank">
+   <img src="https://img.shields.io/badge/-Express-000000?&style=for-the-badge&logo=express&logoColor=white" />
+ </a>
+ <a href="https://www.mongodb.com/" target="_blank">
+   <img src="https://img.shields.io/badge/-MongoDB-47A248?&style=for-the-badge&logo=mongodb&logoColor=white" />
+ </a>
+ <a href="https://www.postgresql.org/" target="_blank">
+   <img src="https://img.shields.io/badge/-PostgreSQL-336791?&style=for-the-badge&logo=postgresql&logoColor=white" />
+ </a>
+ <a href="https://vitejs.dev/" target="_blank">
+   <img src="https://img.shields.io/badge/-Vite-B73BFE?&style=for-the-badge&logo=vite&logoColor=FFD62E" />
+ </a>
+ <a href="https://tailwindcss.com/" target="_blank">
+   <img src="https://img.shields.io/badge/-TailwindCSS-06B6D4?&style=for-the-badge&logo=tailwindcss&logoColor=white" />
+ </a>
+ <a href="https://git-scm.com/" target="_blank">
+   <img src="https://img.shields.io/badge/-Git-F05032?&style=for-the-badge&logo=git&logoColor=white" />
+ </a>
+ <a href="https://www.netlify.com/" target="_blank">
+   <img src="https://img.shields.io/badge/-Netlify-00C7B7?&style=for-the-badge&logo=netlify&logoColor=white" />
+ </a>
+ <a href="https://vercel.com/" target="_blank">
+   <img src="https://img.shields.io/badge/-Vercel-000000?&style=for-the-badge&logo=vercel&logoColor=white" />
+ </a>
+ <br><br>
+ <span style="vertical-align: middle;">❤️</span> 
+ <a href="https://www.markdownguide.org/" target="_blank">
+   <img src="https://img.shields.io/badge/-Markdown-000000?&style=for-the-badge&logo=markdown&logoColor=white" style="vertical-align: middle;" />
+ </a>
 </div>
 
-
-
 ### 🖌️ Design  
-
 <div>
-<img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
-<img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" />
-<img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" />
-<img src="https://img.shields.io/badge/Adobe%20XD-FF61F6?style=for-the-badge&logo=adobe%20xd&logoColor=white" />
-<img src="https://img.shields.io/badge/After%20Effects-CF96FD?style=for-the-badge&logo=Adobe%20after%20effects&logoColor=white" />
+ <a href="https://www.figma.com/" target="_blank">
+   <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
+ </a>
+ <a href="https://www.adobe.com/products/photoshop.html" target="_blank">
+   <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" />
+ </a>
+ <a href="https://www.adobe.com/products/illustrator.html" target="_blank">
+   <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" />
+ </a>
+ <a href="https://www.adobe.com/products/xd.html" target="_blank">
+   <img src="https://img.shields.io/badge/Adobe%20XD-FF61F6?style=for-the-badge&logo=adobe%20xd&logoColor=white" />
+ </a>
+ <a href="https://www.adobe.com/products/aftereffects.html" target="_blank">
+   <img src="https://img.shields.io/badge/After%20Effects-CF96FD?style=for-the-badge&logo=Adobe%20after%20effects&logoColor=white" />
+ </a>
 </div>
 
 ---
