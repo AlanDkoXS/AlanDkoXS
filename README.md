@@ -89,7 +89,11 @@ I bring a **design-first mindset** to development, ensuring every product is bot
   <img src="https://img.shields.io/badge/-Netlify-00C7B7?&style=for-the-badge&logo=netlify&logoColor=white" />
   <img src="https://img.shields.io/badge/-Vercel-000000?&style=for-the-badge&logo=vercel&logoColor=white" />
   <br>
-  ❤️ <img src="https://img.shields.io/badge/-Markdown-000000?&style=for-the-badge&logo=markdown&logoColor=white" />
+  <table>
+  <tr>
+    <td>❤️ <img src="https://img.shields.io/badge/-Markdown-000000?&style=for-the-badge&logo=markdown&logoColor=white" /></td>
+  </tr>
+</table>
 </div>
 
 
