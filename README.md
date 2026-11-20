@@ -125,6 +125,45 @@ I bring a **design-first mindset** to development, ensuring every product is bot
  <a href="https://tailwindcss.com/" target="_blank">
    <img src="https://img.shields.io/badge/-TailwindCSS-06B6D4?&style=for-the-badge&logo=tailwindcss&logoColor=white" />
  </a>
+ <a href="https://nextjs.org/" target="_blank">
+   <img src="https://img.shields.io/badge/-Next.js-000000?&style=for-the-badge&logo=nextdotjs&logoColor=white" />
+ </a>
+ <a href="https://reactnative.dev/" target="_blank">
+   <img src="https://img.shields.io/badge/-React%20Native-20232A?&style=for-the-badge&logo=react&logoColor=61DAFB" />
+ </a>
+ <a href="https://expo.dev/" target="_blank">
+   <img src="https://img.shields.io/badge/-Expo-000020?&style=for-the-badge&logo=expo&logoColor=white" />
+ </a>
+ <a href="https://mui.com/" target="_blank">
+   <img src="https://img.shields.io/badge/-MUI-007FFF?&style=for-the-badge&logo=mui&logoColor=white" />
+ </a>
+ <a href="https://socket.io/" target="_blank">
+   <img src="https://img.shields.io/badge/-Socket.IO-010101?&style=for-the-badge&logo=socketdotio&logoColor=white" />
+ </a>
+ <a href="https://firebase.google.com/" target="_blank">
+   <img src="https://img.shields.io/badge/-Firebase-DD2C00?&style=for-the-badge&logo=firebase&logoColor=white" />
+ </a>
+ <a href="https://www.docker.com/" target="_blank">
+   <img src="https://img.shields.io/badge/-Docker-2496ED?&style=for-the-badge&logo=docker&logoColor=white" />
+ </a>
+ <a href="https://www.postman.com/" target="_blank">
+   <img src="https://img.shields.io/badge/-Postman-FF6C37?&style=for-the-badge&logo=postman&logoColor=white" />
+ </a>
+ <a href="https://www.npmjs.com/" target="_blank">
+   <img src="https://img.shields.io/badge/-npm-CB3837?&style=for-the-badge&logo=npm&logoColor=white" />
+ </a>
+ <a href="https://www.gnu.org/software/bash/" target="_blank">
+   <img src="https://img.shields.io/badge/-Bash-4EAA25?&style=for-the-badge&logo=gnubash&logoColor=white" />
+ </a>
+ <a href="https://www.mercadopago.com.mx/developers" target="_blank">
+   <img src="https://img.shields.io/badge/-Mercado%20Pago-00B1EA?&style=for-the-badge&logo=mercadopago&logoColor=white" />
+ </a>
+ <a href="https://sentry.io/" target="_blank">
+   <img src="https://img.shields.io/badge/-Sentry-362D59?&style=for-the-badge&logo=sentry&logoColor=white" />
+ </a>
+ <a href="https://upstash.com/" target="_blank">
+   <img src="https://img.shields.io/badge/-Upstash-00E9A3?&style=for-the-badge&logo=upstash&logoColor=black" />
+ </a>
  <a href="https://git-scm.com/" target="_blank">
    <img src="https://img.shields.io/badge/-Git-F05032?&style=for-the-badge&logo=git&logoColor=white" />
  </a>
