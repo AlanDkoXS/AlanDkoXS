@@ -15,11 +15,11 @@
 
 # Hi there 👋  
 
-- 🔭 I’m currently developing a **time-tracking application** using the **MERN** stack.  
-- 🌱 I recently completed my **Full Stack Web Development** course and continue refining my skills in **NodeJS, Express, PostgreSQL, and MongoDB**.  
-- 👯 I’m looking to collaborate on **innovative web development projects**.  
-- 🤔 I’m diving deeper into **advanced front-end techniques** and optimizing UI/UX.  
-- 💬 Ask me about **full stack development, graphic design, and digital illustration**.  
+- 🏢 I run **[Aniwa](https://beaniwa.com)**, a digital agency in Chihuahua, Mexico: web development, branding, SEO and social media since **2010**.  
+- 🔭 Lately I build client sites and apps with **Astro, React, TypeScript and Supabase**, like the car marketplace [Automercado](https://automercado.com.mx).  
+- ⏱️ I shipped **[Traktl](https://traktl.alanquintana.pro)**, a full stack time tracker (React + TypeScript, Node.js, Express, MongoDB, Socket.IO).  
+- 🤖 I pair with **Claude Code** in my day-to-day development.  
+- 💬 Ask me about **full stack development, UI/UX, graphic design and accessibility**.  
 - 📫 How to reach me: <a href="https://wa.me/526141105668">Send me a message on WhatsApp</a>  
 - 😄 Pronouns: He/Him  
 - ⚡ Fun fact: I started as a **self-taught graphic designer**, and now I blend **design and development** to build **modern, user-centric applications**.  
@@ -28,26 +28,39 @@
 
 ## A Full Stack **Designer**  
 
-Hi! I'm **Alan Quintana**, a **full stack developer** and **graphic designer** from **Chihuahua, Mexico**. I have a passion for creating **functional, scalable, and visually engaging** digital experiences. My background in **design** and **web development** allows me to craft well-structured, accessible, and aesthetic applications.  
+Hi! I'm **Alan Quintana**, a **full stack developer** and **graphic designer** from **Chihuahua, Mexico**. I come from graphic design and now build from start to finish: I design in **Figma, Photoshop and Illustrator** and code with **React, Astro, TypeScript and Node.js**, so every project goes from idea to code without losing its visual care.  
 
 ---
 
-## 🖥️ Full Stack Development  
+## 🚀 Featured work  
 
-I specialize in **MERN (MongoDB, Express, React, NodeJS)** and also work with **PostgreSQL** for relational databases. I have strong **Frontend development** skills, building modern, responsive, and user-friendly interfaces using:  
+### Client projects · Aniwa  
 
-- **HTML, CSS, and JavaScript** for structured, accessible, and dynamic web applications.  
-- **React** for building reusable UI components and interactive web experiences.  
-- **State management** with Redux to handle complex application states.  
-- **Responsive design** with Tailwind CSS and styled-components for seamless user experience across devices.
+| Project | What it is | Stack |
+|---|---|---|
+| [Automercado](https://automercado.com.mx) | Car marketplace for private buyers and sellers in Mexico | Astro, React, Supabase, Mercado Pago, Upstash |
+| [Cal’s Auto Credit](https://calsautocreditinc.com) | Bilingual used-car catalog for a dealership in Dallas, Texas | Astro SSR, Supabase, Tailwind |
+| [Mercado Regional](https://mercadoregional.com.mx) | Website and blog for a regional products store | Astro, MDX, Tailwind |
+| [Forja Norte](https://forjanorte.com.mx) | Web presence for a metalwork and welding company | Astro, React, TypeScript |
 
-Check out my work: [GitHub Repositories](https://github.com/AlanDkoXS/)  
+### Personal projects  
+
+Each one has a case study on my site.
+
+| Project | What it is | Case study |
+|---|---|---|
+| [Traktl](https://github.com/AlanDkoXS/Traktl) | Full stack time tracker with reports and real-time sync | [Read](https://www.alanquintana.pro/projects/traktl/) |
+| [CRUD Users](https://github.com/AlanDkoXS/CRUD) | User management with Material 3 Expressive and a serverless API | [Read](https://www.alanquintana.pro/projects/crud-users/) |
+| [Marvel Wiki](https://github.com/AlanDkoXS/marvel-app) | Search and explore Marvel characters | [Read](https://www.alanquintana.pro/projects/marvel-wiki/) |
+| [Rick and Morty Wiki](https://github.com/AlanDkoXS/rick-morty) | Locations and residents from the Rick and Morty API | [Read](https://www.alanquintana.pro/projects/rick-and-morty-wiki/) |
+| [Weather App](https://github.com/AlanDkoXS/weather-app) | Current weather for any city | [Read](https://www.alanquintana.pro/projects/weather-app/) |
+| [Portfolio](https://github.com/AlanDkoXS/portfolio) | [alanquintana.pro](https://alanquintana.pro): bilingual, accessible, no framework | — |
 
 ---
 
 ## 🎨 Graphic Design Expertise  
 
-With **3+ years of experience** in **branding, digital illustration, and UI/UX**, I’m proficient in:  
+With **15+ years of experience** in **branding, digital illustration and UI/UX**, I’m proficient in:  
 
 - **Adobe Creative Suite** (Photoshop, Illustrator, InDesign)  
 - **Figma** for UI/UX prototyping  
@@ -59,11 +72,11 @@ I bring a **design-first mindset** to development, ensuring every product is bot
 
 ## 📈 Professional Skills  
 
-- **Full Stack Development**: MERN, PostgreSQL, RESTful APIs  
-- **Frontend Frameworks**: React, Vite, Redux, Tailwind CSS  
-- **Backend & Databases**: Node.js, Express, PostgreSQL, MongoDB  
-- **Project Management**: Agile, Scrum, Risk Management  
-- **UI/UX Design**: Wireframing, Prototyping, Responsive Design  
+- **Full Stack Development**: React, Astro, Node.js, Express, RESTful APIs, real-time with Socket.IO  
+- **Frontend**: TypeScript, Tailwind CSS, Vite, Zustand, accessible and responsive UI  
+- **Backend & Databases**: Supabase, PostgreSQL, MongoDB, serverless functions  
+- **Web performance, SEO and accessibility (WCAG)**  
+- **Project Management**: Agile, Scrum  
 - **DevOps & Deployment**: Netlify, Vercel, GitHub Actions  
 
 ---
@@ -77,7 +90,7 @@ I bring a **design-first mindset** to development, ensuring every product is bot
    <img src="https://img.shields.io/badge/-HTML-E34F26?&style=for-the-badge&logo=html5&logoColor=white" />
  </a>
  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-   <img src="https://img.shields.io/badge/-CSS-1572B6?&style=for-the-badge&logo=css3&logoColor=white" />
+   <img src="https://img.shields.io/badge/-CSS-663399?&style=for-the-badge&logo=css&logoColor=white" />
  </a>
  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
    <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?&style=for-the-badge&logo=javascript&logoColor=black" />
@@ -100,6 +113,9 @@ I bring a **design-first mindset** to development, ensuring every product is bot
  <a href="https://www.mongodb.com/" target="_blank">
    <img src="https://img.shields.io/badge/-MongoDB-47A248?&style=for-the-badge&logo=mongodb&logoColor=white" />
  </a>
+ <a href="https://supabase.com/" target="_blank">
+   <img src="https://img.shields.io/badge/-Supabase-3FCF8E?&style=for-the-badge&logo=supabase&logoColor=white" />
+ </a>
  <a href="https://www.postgresql.org/" target="_blank">
    <img src="https://img.shields.io/badge/-PostgreSQL-336791?&style=for-the-badge&logo=postgresql&logoColor=white" />
  </a>
@@ -117,6 +133,9 @@ I bring a **design-first mindset** to development, ensuring every product is bot
  </a>
  <a href="https://vercel.com/" target="_blank">
    <img src="https://img.shields.io/badge/-Vercel-000000?&style=for-the-badge&logo=vercel&logoColor=white" />
+ </a>
+ <a href="https://claude.com/product/claude-code" target="_blank">
+   <img src="https://img.shields.io/badge/-Claude%20Code-D97757?&style=for-the-badge&logo=claude&logoColor=white" />
  </a>
  <br><br>
  <span style="vertical-align: middle;">❤️</span> 
@@ -154,7 +173,8 @@ I bring a **design-first mindset** to development, ensuring every product is bot
 
 ## 📫 Contact  
 
-- **Email**: [hello@alan.quintanapacheco.pro](mailto:hello@alan.quintanapacheco.pro)  
+- **Email**: [hello@alanquintana.pro](mailto:hello@alanquintana.pro)  
+- **Website**: [alanquintana.pro](https://alanquintana.pro)  
 - **WhatsApp**: [Send me a message](https://wa.me/526141105668)  
 
 ---
